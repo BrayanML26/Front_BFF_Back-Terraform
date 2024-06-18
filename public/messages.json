@@ -1,0 +1,7 @@
+{
+    "messages": [
+      { "id": 1, "content": "Hello, this is a message!" },
+      { "id": 2, "content": "This is another message." }
+    ]
+  }
+  
